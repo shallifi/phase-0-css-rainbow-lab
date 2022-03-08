@@ -1,0 +1,5 @@
+#red {
+    /*this element is red*/
+    border-top-color: #f00;
+    color: #f00;
+}
